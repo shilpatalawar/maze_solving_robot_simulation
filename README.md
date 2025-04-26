@@ -30,7 +30,7 @@ To deploy this project, below mentioned steps to be follow.
 
     
 bash
-    git clone https://github.com/Preetamk97/Autonomous-Maze-Solving-Turtlebot3-Simulation.git
+    
 
 
 - This will create a new folder named **Autonomous-Maze-Solving-Turtlebot3-Simulation** inside the **Cloned Repo** directory.
